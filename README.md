@@ -5,7 +5,7 @@ Code for Generalizing Graph Network Models for the Traveling Salesman Problem, I
 * run  `train.ipynb` to train the GCN model on TSP20 dataset or TSP100 dataset
 * run  `test_part.ipynb` to test the model on various problem sizes 
 * run  `data_generator.ipynb` to generate trainset or testset of different problem sizes, with or without labels.
-* pre-trained models and datasets could be downloaded from:[link](链接：https://pan.baidu.com/s/1eRQ0cD8xK163gW8S79_ytA?pwd=uxq7)
+* pre-trained models and datasets could be downloaded from:[link](https://pan.baidu.com/s/1eRQ0cD8xK163gW8S79_ytA?pwd=uxq7)
 
 ## Dependencies
 * Python >= 3.6
